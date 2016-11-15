@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+
+header{
+	padding: 0 0 0 480px;
+}
+h1 {
+	font-family:sans-serif;
+	text-align: center;
+}
+
+.login{
+	padding-left: 600px;
+}
+div{
+	padding: 10px;
+	text-align: center;
+	font-size: 1em;
+}
+
+#divdesc{
+	background-color: yellow;
+}
+div #divprecio{
+	font-size: 2em;
+	color: grey;
+	text-align: center;
+}
+div #divdesc p {
+	text-align: center;
+}
